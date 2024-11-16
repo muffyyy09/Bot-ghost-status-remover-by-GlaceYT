@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["rizz" "/moncheri"];
-const statusTypes = [ 'watching'];
+const statusTypes = [ 'dnd'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
